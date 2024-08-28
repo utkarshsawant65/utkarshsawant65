@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @utkarshsawant65
-- 👀 I’m interested in cybersecrity
-- 🌱 I’m currently learning computer engineering
+- 👀 I’m interested in Data Science and Data Analytics
+- 🌱 I’m currently pursuing Master's in Applied Data Science and Analytics
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me email@ Sawant.utkarsh17@gmail.com
+- 📫 How to reach me email@ utkarsh.sawant21@gmail.com
 
 <!---
 utkarshsawant65/utkarshsawant65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
