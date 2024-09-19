@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @utkarshsawant65
-- 👀 I’m interested in Data Science and Data Analytics
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently pursuing Master's in Applied Data Science and Analytics
-- 💞️ I’m looking to collaborate on projects 
+- 👨‍💻  I’m looking to collaborate on projects 
 - 📫 How to reach me email@ utkarsh.sawant21@gmail.com
 
 <!---
