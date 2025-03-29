@@ -14,7 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsawant65&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsawant65&exclude_repo=your-html-heavy-repo&layout=compact&theme=radical" />
+
 </p>
 <h2 align="center">🛠️ Tech Stack</h2>
 
