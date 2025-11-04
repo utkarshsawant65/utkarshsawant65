@@ -1,36 +1,162 @@
-<h1 align="center">Hi, I'm Utkarsh Sawant 👋</h1>
-<h3 align="center">🚀 Data Analytics Enthusiast | 🌱 Master’s in Applied Data Science</h3>
+<!-- Animated Wave Header -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Utkarsh%20Sawant&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analytics%20Explorer%20|%20Applied%20Data%20Science%20Master's&descAlignY=52&descSize=20&descFontColor=d6d6d6" alt="Header" />
+</div>
+
+<!-- Animated Typing SVG -->
 <p align="center">
-  👨‍💻 I love collaborating on projects and solving real-world problems. <br>
-  📫 Reach me at: <a href="mailto:utkarsh.sawant21@gmail.com">utkarsh.sawant21@gmail.com</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Playground!+🚀;Data+Analytics+Enthusiast+📊;Problem+Solver+%26+Creative+Thinker+💡;Always+Learning%2C+Always+Growing+🌱" alt="Typing SVG" />
+  </a>
 </p>
 
+<!-- Animated Social Badges -->
+<div align="center">
   
-<h2 align="center">📊 GitHub Stats</h2>
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarsh.sawant21@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarshsawant)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+  
+  <!-- Animated Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=utkarshsawant65&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshsawant65&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshsawant65&theme=radical" alt="Streak Stats" />
-</p>
+<!-- About Me Section with Animated Background -->
+<img align="right" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshsawant65&exclude_repo=your-html-heavy-repo&layout=compact&theme=radical" />
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-</p>
-<h2 align="center">🛠️ Tech Stack</h2>
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Utkarsh Sawant"
+        self.role = "Data Analytics Enthusiast"
+        self.education = "Master's in Applied Data Science"
+        self.location = "🌍 Earth"
+        self.current_focus = ["Machine Learning", "Data Visualization", "Statistical Analysis"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
-</p>
+me = DataScientist()
+me.say_hi()
+```
 
+<br clear="right"/>
 
-<!---
-utkarshsawant65/utkarshsawant65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Animated Skills Section -->
+## 🎯 Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### 📊 Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 📈 Visualization & BI Tools
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+<!-- GitHub Stats with Animations -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=utkarshsawant65&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=utkarshsawant65&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utkarshsawant65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshsawant65&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866" alt="Activity Graph" />
+</div>
+
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=utkarshsawant65&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
+<!-- Featured Projects Section -->
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/utkarshsawant65/project1">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=utkarshsawant65&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" />
+  </a>
+  <a href="https://github.com/utkarshsawant65/project2">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=utkarshsawant65&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" />
+  </a>
+</div>
+
+<!-- Current Focus -->
+## 🎯 Current Focus
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen?style=for-the-badge&labelColor=0D1117&color=F85D7F" />
+  <img src="https://img.shields.io/badge/Learning-Deep%20Learning-blue?style=for-the-badge&labelColor=0D1117&color=F8D866" />
+  <img src="https://img.shields.io/badge/Building-Data%20Pipelines-orange?style=for-the-badge&labelColor=0D1117&color=6AD3F5" />
+</div>
+
+<!-- Fun Facts -->
+## 🎲 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<!-- Contribution Graph Snake -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Music Playing -->
+## 🎵 Vibing to
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31a5jmlrexkdeb65ldqfxn4fcxly&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=F85D7F&bar_color_cover=false" alt="Spotify" />
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
+
+<!-- Hidden Easter Egg -->
+<!--
+████████╗██╗░░██╗░█████╗░███╗░░██╗██╗░░██╗░██████╗  ███████╗░█████╗░██████╗░
+╚══██╔══╝██║░░██║██╔══██╗████╗░██║██║░██╔╝██╔════╝  ██╔════╝██╔══██╗██╔══██╗
+░░░██║░░░███████║███████║██╔██╗██║█████═╝░╚█████╗░  █████╗░░██║░░██║██████╔╝
+░░░██║░░░██╔══██║██╔══██║██║╚████║██╔═██╗░░╚═══██╗  ██╔══╝░░██║░░██║██╔══██╗
+░░░██║░░░██║░░██║██║░░██║██║░╚███║██║░╚██╗██████╔╝  ██║░░░░░╚█████╔╝██║░░██║
+░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═════╝░  ╚═╝░░░░░░╚════╝░╚═╝░░╚═╝
+
+██████╗░██████╗░░█████╗░██████╗░██████╗░██╗███╗░░██╗░██████╗░  ██████╗░██╗░░░██╗██╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║████╗░██║██╔════╝░  ██╔══██╗╚██╗░██╔╝██║
+██║░░██║██████╔╝██║░░██║██████╔╝██████╔╝██║██╔██╗██║██║░░██╗░  ██████╦╝░╚████╔╝░██║
+██║░░██║██╔══██╗██║░░██║██╔═══╝░██╔═══╝░██║██║╚████║██║░░╚██╗  ██╔══██╗░░╚██╔╝░░╚═╝
+██████╔╝██║░░██║╚█████╔╝██║░░░░░██║░░░░░██║██║░╚███║╚██████╔╝  ██████╦╝░░░██║░░░██╗
+╚═════╝░╚═╝░░╚═╝░╚════╝░╚═╝░░░░░╚═╝░░░░░╚═╝╚═╝░░╚══╝░╚═════╝░  ╚═════╝░░░░╚═╝░░░╚═╝
+
+You found the secret message! 🎉 Connect with me for exciting collaborations!
+-->
