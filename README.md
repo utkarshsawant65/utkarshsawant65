@@ -32,7 +32,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Data%20Engineer%20Intern-Noritual%20Lab%20Berlin-88C999?style=for-the-badge&labelColor=2D5016&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAxNkgxN1Y4SDE5TTE0IDE2SDEyVjhIMTRNOSAxNkg3VjhIOVY0SDVWMTBINDNWMTBIM1YyMEgzVjIySDE5VjIwSDIxVjEwSDIwVjRIMTBWOEgxMVY0SDlaIi8+PC9zdmc+" />
   <br/>
-  <em>"Building multi-channel P&L models | Unifying Amazon, Shopify & B2B data pipelines on GCP 🌱"</em>
+  <em>"Building data pipelines and analytics solutions"</em>
 </div>
 
 ### 🎓 Previous Experience
