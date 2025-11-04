@@ -5,9 +5,7 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Playground!+🚀;Data+Analytics+Enthusiast+📊;Problem+Solver+%26+Creative+Thinker+💡;Always+Learning%2C+Always+Growing+🌱" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Playground!+%F0%9F%9A%80;Data+Analytics+Enthusiast+%F0%9F%93%8A;Problem+Solver+and+Creative+Thinker+%F0%9F%92%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
 <!-- Animated Social Badges -->
@@ -21,8 +19,10 @@
   <img src="https://komarev.com/ghpvc/?username=utkarshsawant65&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </div>
 
-<!-- About Me Section with Animated Background -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!-- About Me Section -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation" />
+</div>
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
@@ -41,8 +41,6 @@ class DataScientist:
 me = DataScientist()
 me.say_hi()
 ```
-
-<br clear="right"/>
 
 <!-- Animated Skills Section -->
 ## 🎯 Tech Arsenal
@@ -85,7 +83,7 @@ me.say_hi()
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utkarshsawant65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshsawant65&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866" alt="Activity Graph" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=utkarshsawant65&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
 </div>
 
 <!-- Trophies -->
@@ -121,15 +119,18 @@ me.say_hi()
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-<!-- Contribution Graph Snake -->
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+  
+  <!-- This snake animation requires GitHub Actions setup. For now, using an alternative visualization -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshsawant65&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866&area=true&area_color=F85D7F" alt="Activity Graph" />
+  
+</div>
+
+<!-- Alternative: Contribution Calendar -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/F85D7F/utkarshsawant65" alt="GitHub Contributions" />
 </div>
 
 <!-- Music Playing -->
