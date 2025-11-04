@@ -5,7 +5,7 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=88C999&center=true&vCenter=true&random=false&width=700&lines=Data+Engineer+@+Noritual+Lab+Berlin+%F0%9F%8D%B5;Building+GCP+Pipelines+for+E-commerce+Analytics;MS+Applied+Data+Science+@+SRH+Heidelberg;Initialzing %2C+AI+%26+Agents%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=88C999&center=true&vCenter=true&random=false&width=700&lines=Data+Engineer+@+Noritual+Lab+Berlin+%F0%9F%8D%B5;Building+GCP+Pipelines+for+E-commerce+Analytics;MS+Applied+Data+Science+@+SRH+Heidelberg;Initializing%2C+AI+%26+Agents+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
 
 <!-- Animated Social Badges -->
