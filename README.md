@@ -37,7 +37,7 @@
 
 ### 🎓 Previous Experience
 <div align="center">
-  <img src="https://img.shields.io/badge/Research%20Student-BioMed%20X%20LINK-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Case-Study%20Student-BioMed%20X%20LINK-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
   <br/>
   <em>Developed "Talk2Scholars" - Multi-agentic AI framework for 10,000+ academic papers</em>
 </div>
