@@ -37,7 +37,7 @@
 
 ### 🎓 Previous Experience
 <div align="center">
-  <img src="https://img.shields.io/badge/Case-Study%20Student-BioMed%20X%20LINK-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Case%20Study%20Student-BioMed%20X%20LINK-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
   <br/>
   <em>Developed "Talk2Scholars" - Multi-agentic AI framework for 10,000+ academic papers</em>
 </div>
@@ -235,11 +235,11 @@ me.say_hi()
   <img src="https://ghchart.rshah.org/88C999/utkarshsawant65" alt="GitHub Contributions" />
 </div>
 
-<!-- Music Playing -->
-## 🎵 Vibing to
+<!-- Animated Cartoon Developer -->
+## 💻 Coding Mode
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31a5jmlrexkdeb65ldqfxn4fcxly&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=F85D7F&bar_color_cover=false" alt="Spotify" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding Animation" />
 </div>
 
 <!-- Footer Wave -->
