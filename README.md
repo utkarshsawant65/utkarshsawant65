@@ -5,7 +5,7 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=700&lines=Data+Engineer+@+Noritual+Lab+Berlin+%F0%9F%8D%B5;Building+GCP+Pipelines+for+E-commerce+Analytics;MS+Applied+Data+Science+@+SRH+Heidelberg;Initializing+AI+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B1A1A&center=true&vCenter=true&random=false&width=700&lines=Data+Engineer+@+Noritual+Lab+Berlin+%F0%9F%8D%B5;Building+GCP+Pipelines+for+E-commerce+Analytics;MS+Applied+Data+Science+@+SRH+Heidelberg;Initializing+AI+Agents" alt="Typing SVG" />
 </p>
 
 <!-- Animated Social Badges -->
@@ -16,7 +16,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utkarshsawant65)
   
   <!-- Location Badge -->
-  <img src="https://img.shields.io/badge/📍_Mannheim,_Germany-F85D7F?style=for-the-badge&labelColor=8B0000" alt="Location" />
+  <img src="https://img.shields.io/badge/📍_Mannheim,_Germany-8B1A1A?style=for-the-badge&labelColor=6d0705" alt="Location" />
   
   <!-- Animated Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=utkarshsawant65&style=for-the-badge&color=red" alt="Profile Views" />
@@ -30,7 +30,7 @@
 ## 🍵 Currently Brewing At
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Data%20Engineer%20Intern-Noritual%20Lab%20Berlin-F85D7F?style=for-the-badge&labelColor=8B0000&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAxNkgxN1Y4SDE5TTE0IDE2SDEyVjhIMTRNOSAxNkg3VjhIOVY0SDVWMTBINDNWMTBIM1YyMEgzVjIySDE5VjIwSDIxVjEwSDIwVjRIMTBWOEgxMVY0SDlaIi8+PC9zdmc+" />
+  <img src="https://img.shields.io/badge/Data%20Engineer%20Intern-Noritual%20Lab%20Berlin-8B1A1A?style=for-the-badge&labelColor=6d0705&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAxNkgxN1Y4SDE5TTE0IDE2SDEyVjhIMTRNOSAxNkg3VjhIOVY0SDVWMTBINDNWMTBIM1YyMEgzVjIySDE5VjIwSDIxVjEwSDIwVjRIMTBWOEgxMVY0SDlaIi8+PC9zdmc+" />
   <br/>
   <em>"Building data pipelines and analytics solutions"</em>
 </div>
@@ -122,12 +122,12 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=utkarshsawant65&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=utkarshsawant65&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=FF6B6B&currStreakLabel=FF6B6B" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=utkarshsawant65&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B1A1A&icon_color=8B1A1A" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=utkarshsawant65&theme=radical&hide_border=true&background=0D1117&stroke=8B1A1A&ring=8B1A1A&fire=A52A2A&currStreakLabel=A52A2A" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utkarshsawant65&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utkarshsawant65&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B1A1A&text_color=FFFFFF" alt="Top Languages" />
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=utkarshsawant65&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
 </div>
 
@@ -143,14 +143,14 @@ me.say_hi()
   
 ### 📈 Stock Price Predictions
 <img src="https://img.shields.io/badge/Python-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Accuracy-90%25-F85D7F?style=flat-square" />
+<img src="https://img.shields.io/badge/Accuracy-90%25-8B1A1A?style=flat-square" />
 <img src="https://img.shields.io/badge/Models-LSTM%20|%20XGBoost%20|%20ARIMA-orange?style=flat-square" />
 
 > End-to-end pipeline processing 4,000+ daily stock data points with real-time cleaning & GCP automation
 
 ### 🌱 AI-Driven ESG Risk Analytics  
 <img src="https://img.shields.io/badge/ML-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Accuracy-85%25-F85D7F?style=flat-square" />
+<img src="https://img.shields.io/badge/Accuracy-85%25-8B1A1A?style=flat-square" />
 <img src="https://img.shields.io/badge/Data-50K%2B%20Documents-blue?style=flat-square" />
 
 > ML model analyzing ESG reports & financial sentiment, improving investment decisions by 20%
@@ -158,7 +158,7 @@ me.say_hi()
 ### 🤖 Talk2Scholars Agent
 <img src="https://img.shields.io/badge/Python-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/Papers-10K%2B-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/Efficiency-+30%25-F85D7F?style=flat-square" />
+<img src="https://img.shields.io/badge/Efficiency-+30%25-8B1A1A?style=flat-square" />
 
 > Multi-agentic framework for academic research with 90% accuracy in extracting key findings
 
@@ -168,11 +168,11 @@ me.say_hi()
 ## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Building-Multi--channel%20P%26L%20Models-F85D7F?style=for-the-badge&labelColor=8B0000&color=F85D7F" />
-  <img src="https://img.shields.io/badge/Implementing-GCP%20Data%20Pipelines-blue?style=for-the-badge&labelColor=8B0000&color=FF6B6B" />
-  <img src="https://img.shields.io/badge/Automating-Knowledge%20Extraction-orange?style=for-the-badge&labelColor=8B0000&color=DC143C" />
+  <img src="https://img.shields.io/badge/Building-Multi--channel%20P%26L%20Models-8B1A1A?style=for-the-badge&labelColor=6d0705&color=8B1A1A" />
+  <img src="https://img.shields.io/badge/Implementing-GCP%20Data%20Pipelines-blue?style=for-the-badge&labelColor=6d0705&color=A52A2A" />
+  <img src="https://img.shields.io/badge/Automating-Knowledge%20Extraction-orange?style=for-the-badge&labelColor=6d0705&color=8B1A1A" />
   <br/>
-  <img src="https://img.shields.io/badge/🍵_Impact-<1%25%20P%26L%20Variance%20|%2080%25%20Automation%20|%2040%25%20Reliability%20Boost-F85D7F?style=for-the-badge&labelColor=8B0000" />
+  <img src="https://img.shields.io/badge/🍵_Impact-<1%25%20P%26L%20Variance%20|%2080%25%20Automation%20|%2040%25%20Reliability%20Boost-8B1A1A?style=for-the-badge&labelColor=6d0705" />
 </div>
 
 <!-- Fun Facts -->
@@ -197,17 +197,17 @@ me.say_hi()
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/🍃-Like%20Matcha-F85D7F?style=flat-square&labelColor=8B0000" />
+        <img src="https://img.shields.io/badge/🍃-Like%20Matcha-8B1A1A?style=flat-square&labelColor=6d0705" />
         <br><b>Refined Process</b>
         <br><i>Quality data needs careful preparation</i>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/🌱-Sustainable-FF6B6B?style=flat-square&labelColor=8B0000" />
+        <img src="https://img.shields.io/badge/🌱-Sustainable-A52A2A?style=flat-square&labelColor=6d0705" />
         <br><b>Scalable Solutions</b>
         <br><i>Building pipelines that grow with needs</i>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/✨-Premium%20Quality-DC143C?style=flat-square&labelColor=8B0000" />
+        <img src="https://img.shields.io/badge/✨-Premium%20Quality-8B1A1A?style=flat-square&labelColor=6d0705" />
         <br><b>Clean Data</b>
         <br><i>Pure insights, no artificial additives</i>
       </td>
@@ -226,13 +226,13 @@ me.say_hi()
 <div align="center">
   
   <!-- This snake animation requires GitHub Actions setup. For now, using an alternative visualization -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshsawant65&theme=github-compact&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FF6B6B&area=true&area_color=DC143C" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshsawant65&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B1A1A&line=8B1A1A&point=A52A2A&area=true&area_color=6d0705" alt="Activity Graph" />
   
 </div>
 
 <!-- Alternative: Contribution Calendar -->
 <div align="center">
-  <img src="https://ghchart.rshah.org/F85D7F/utkarshsawant65" alt="GitHub Contributions" />
+  <img src="https://ghchart.rshah.org/8B1A1A/utkarshsawant65" alt="GitHub Contributions" />
 </div>
 
 <!-- Animated Cartoon Developer -->
