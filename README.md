@@ -1,6 +1,6 @@
 <!-- Animated Wave Header with Matcha Theme -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,6,12&height=180&section=header&text=Utkarsh%20Sawant&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20Intern%20@%20Noritual%20Lab%20%F0%9F%8D%B5%20|%20MS%20Applied%20Data%20Science%20@%20SRH%20Heidelberg&descAlignY=52&descSize=17&descFontColor=d6d6d6" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x6d0705,0x4a0403&height=180&section=header&text=Utkarsh%20Sawant&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20Intern%20@%20Noritual%20Lab%20%F0%9F%8D%B5%20|%20MS%20Applied%20Data%20Science%20@%20SRH%20Heidelberg&descAlignY=52&descSize=17&descFontColor=d6d6d6" alt="Header" />
 </div>
 
 <!-- Animated Typing SVG -->
@@ -122,18 +122,18 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=utkarshsawant65&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B1A1A&icon_color=8B1A1A" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=utkarshsawant65&theme=radical&hide_border=true&background=0D1117&stroke=8B1A1A&ring=8B1A1A&fire=A52A2A&currStreakLabel=A52A2A" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=utkarshsawant65&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B1A1A&icon_color=8B1A1A&text_color=FFFFFF&border_color=6d0705" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=utkarshsawant65&theme=dark&hide_border=true&background=0D1117&stroke=8B1A1A&ring=8B1A1A&fire=8B1A1A&currStreakLabel=8B1A1A&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&border=6d0705" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utkarshsawant65&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B1A1A&text_color=FFFFFF" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utkarshsawant65&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B1A1A&text_color=FFFFFF&border_color=6d0705" alt="Top Languages" />
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=utkarshsawant65&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
 </div>
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=utkarshsawant65&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=utkarshsawant65&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=8B1A1A&text_color=FFFFFF&icon_color=8B1A1A" alt="Trophies" />
 </div>
 
 <!-- Featured Projects Section -->
@@ -243,7 +243,7 @@ me.say_hi()
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,6,12&height=100&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x6d0705,0x4a0403&height=100&section=footer" alt="Footer" />
 
 <!-- Hidden Easter Egg -->
 <!--
