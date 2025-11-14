@@ -1,6 +1,6 @@
 <!-- Animated Wave Header with Matcha Theme -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x6d0705,0x4a0403&height=180&section=header&text=Utkarsh%20Sawant&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20Intern%20@%20Noritual%20Lab%20%F0%9F%8D%B5%20|%20MS%20Applied%20Data%20Science%20@%20SRH%20Heidelberg&descAlignY=52&descSize=17&descFontColor=d6d6d6" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x2d0a0a,0x6d0705,0x8B1A1A&height=180&section=header&text=Utkarsh%20Sawant&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20Intern%20@%20Noritual%20Lab%20%F0%9F%8D%B5%20|%20MS%20Applied%20Data%20Science%20@%20SRH%20Heidelberg&descAlignY=52&descSize=17&descFontColor=d6d6d6" alt="Header" />
 </div>
 
 <!-- Animated Typing SVG -->
@@ -243,7 +243,7 @@ me.say_hi()
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x6d0705,0x4a0403&height=100&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x2d0a0a,0x6d0705,0x8B1A1A&height=100&section=footer" alt="Footer" />
 
 <!-- Hidden Easter Egg -->
 <!--
