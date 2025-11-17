@@ -16,7 +16,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utkarshsawant65)
   
   <!-- Location Badge -->
-  <img src="https://img.shields.io/badge/📍_Mannheim,_Germany-8B1A1A?style=for-the-badge&labelColor=6d0705" alt="Location" />
+  <img src="https://img.shields.io/badge/📍_Germany-8B1A1A?style=for-the-badge&labelColor=6d0705" alt="Location" />
   
   <!-- Animated Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=utkarshsawant65&style=for-the-badge&color=red" alt="Profile Views" />
@@ -27,7 +27,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation" />
 </div>
 
-## 🍵 Currently Brewing At
+##  Currently Brewing At
 
 <div align="center">
   <img src="https://img.shields.io/badge/Data%20Engineer%20Intern-Noritual%20Lab%20Berlin-8B1A1A?style=for-the-badge&labelColor=6d0705&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAxNkgxN1Y4SDE5TTE0IDE2SDEyVjhIMTRNOSAxNkg3VjhIOVY0SDVWMTBINDNWMTBIM1YyMEgzVjIySDE5VjIwSDIxVjEwSDIwVjRIMTBWOEgxMVY0SDlaIi8+PC9zdmc+" />
@@ -35,7 +35,7 @@
   <em>"Building data pipelines and analytics solutions"</em>
 </div>
 
-### 🎓 Previous Experience
+###  Previous Experience
 <div align="center">
   <img src="https://img.shields.io/badge/Case%20Study%20Student-BioMed%20X%20LINK-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
   <br/>
@@ -49,10 +49,10 @@ class DataEngineer:
     def __init__(self):
         self.name = "Utkarsh Sawant"
         self.role = "Data Engineer Intern"
-        self.company = "Noritual Lab Berlin 🍵"
+        self.company = "Noritual Lab Berlin "
         self.education = ["MS Applied Data Science @ SRH Heidelberg", 
                          "BE Computer Engineering @ Mumbai University"]
-        self.location = "📍 Mannheim, Germany"
+        self.location = "Germany"
         self.achievements = ["<1% P&L variance", "80% automation", "40% reliability boost"]
         self.current_focus = ["GCP Data Pipelines", "Multi-channel Analytics", "Real-time ETL"]
         self.languages_spoken = ["English", "German (A2)", "Hindi", "Marathi"]
@@ -65,11 +65,11 @@ me.say_hi()
 ```
 
 <!-- Animated Skills Section -->
-## 🎯 Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
-### 🍵 Data Engineering & Big Data
+###  Data Engineering & Big Data
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
@@ -77,7 +77,7 @@ me.say_hi()
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![MapReduce](https://img.shields.io/badge/MapReduce-FF6B6B?style=for-the-badge&logo=apache&logoColor=white)
 
-### 💻 Programming & ML Frameworks
+###  Programming & ML Frameworks
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -86,13 +86,13 @@ me.say_hi()
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🤖 AI & NLP Tools
+###  AI & NLP Tools
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graphql&logoColor=white)
 ![LLMs](https://img.shields.io/badge/Large%20Language%20Models-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-00C7B7?style=for-the-badge&logo=robot&logoColor=white)
 
-### 📊 Data Analysis & Visualization
+###  Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -102,14 +102,14 @@ me.say_hi()
 ![SAS](https://img.shields.io/badge/SAS-0066CC?style=for-the-badge&logo=sas&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -119,7 +119,7 @@ me.say_hi()
 </div>
 
 <!-- GitHub Stats with Animations -->
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=utkarshsawant65&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B1A1A&icon_color=8B1A1A&text_color=FFFFFF&border_color=6d0705" alt="GitHub Stats" />
@@ -137,25 +137,25 @@ me.say_hi()
 </div>
 
 <!-- Featured Projects Section -->
-## 🌟 Featured Projects
+##  Featured Projects
 
 <div align="center">
   
-### 📈 Stock Price Predictions
+###  Stock Price Predictions
 <img src="https://img.shields.io/badge/Python-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Accuracy-90%25-8B1A1A?style=flat-square" />
 <img src="https://img.shields.io/badge/Models-LSTM%20|%20XGBoost%20|%20ARIMA-orange?style=flat-square" />
 
 > End-to-end pipeline processing 4,000+ daily stock data points with real-time cleaning & GCP automation
 
-### 🌱 AI-Driven ESG Risk Analytics  
+###  AI-Driven ESG Risk Analytics  
 <img src="https://img.shields.io/badge/ML-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Accuracy-85%25-8B1A1A?style=flat-square" />
 <img src="https://img.shields.io/badge/Data-50K%2B%20Documents-blue?style=flat-square" />
 
 > ML model analyzing ESG reports & financial sentiment, improving investment decisions by 20%
 
-### 🤖 Talk2Scholars Agent
+###  Talk2Scholars Agent
 <img src="https://img.shields.io/badge/Python-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/Papers-10K%2B-purple?style=flat-square" />
 <img src="https://img.shields.io/badge/Efficiency-+30%25-8B1A1A?style=flat-square" />
@@ -165,7 +165,7 @@ me.say_hi()
 </div>
 
 <!-- Current Focus -->
-## 🎯 Current Focus
+##  Current Focus
 
 <div align="center">
   <img src="https://img.shields.io/badge/Building-Multi--channel%20P%26L%20Models-8B1A1A?style=for-the-badge&labelColor=6d0705&color=8B1A1A" />
@@ -176,7 +176,7 @@ me.say_hi()
 </div>
 
 <!-- Fun Facts -->
-## 🏆 Certifications & Achievements
+##  Certifications & Achievements
 
 <div align="center">
   
@@ -187,27 +187,27 @@ me.say_hi()
   
   <br/>
   
-  **🎓 Academic Excellence:** BE in Computer Engineering (GPA: 8.39/10) | **🏅 Leadership:** President @ SIGCE (Led 50+ team)
+  ** Academic Excellence:** BE in Computer Engineering (GPA: 8.39/10) | ** Leadership:** President @ SIGCE (Led 50+ team)
 
 </div>
 
-## 🍵 Matcha & Data Philosophy
+##  Matcha & Data Philosophy
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/🍃-Like%20Matcha-8B1A1A?style=flat-square&labelColor=6d0705" />
+        <img src="https://img.shields.io/badge/-Like%20Matcha-8B1A1A?style=flat-square&labelColor=6d0705" />
         <br><b>Refined Process</b>
         <br><i>Quality data needs careful preparation</i>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/🌱-Sustainable-A52A2A?style=flat-square&labelColor=6d0705" />
+        <img src="https://img.shields.io/badge/-Sustainable-A52A2A?style=flat-square&labelColor=6d0705" />
         <br><b>Scalable Solutions</b>
         <br><i>Building pipelines that grow with needs</i>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/✨-Premium%20Quality-8B1A1A?style=flat-square&labelColor=6d0705" />
+        <img src="https://img.shields.io/badge/-Premium%20Quality-8B1A1A?style=flat-square&labelColor=6d0705" />
         <br><b>Clean Data</b>
         <br><i>Pure insights, no artificial additives</i>
       </td>
@@ -215,13 +215,13 @@ me.say_hi()
   </table>
 </div>
 
-## 🎲 Random Dev Quote
+##  Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
   
